@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annayathamma
 - 👀 I’m interested in automated reporting, data visualization, database design, natural language processing. 
-- 🌱 I’m currently learning Python and R.  
+- 🌱 I’m currently learning Python, R, and Tableau.  
 - 💞️ I’m looking to collaborate on Python and SQL
 - 📫 How to reach me 
      email: sthammaloka@gmail.com
